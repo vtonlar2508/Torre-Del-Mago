@@ -5,6 +5,6 @@ Para abrir este projecto se necesita de Local.wp, ya que es creada de manera loc
 
 https://localwp.com/
 
-En este documento se deatallara como abirir la pagina:
+En este documento se deatallara como abrir la pagina:
 
 [Guia Local WP.pdf](https://github.com/user-attachments/files/28848572/Guia.Local.WP.pdf)
